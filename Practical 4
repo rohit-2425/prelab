@@ -1,0 +1,56 @@
+<html>
+       <title>Time table</title>
+<body>
+        <table border="3">
+<tr>
+<th>Day/time</th>
+<th>7to8</th>
+<th>8to9</th>
+<th>9to10</th>
+<th>10to12.30</th>
+</tr>
+<tr>
+<th>monday</th>
+<th>Smp</th>
+<th>Chem</th>
+<th rowspan="6">dinner</th>
+<th>Social media</th>
+</tr>
+<tr>
+<th>Tuesday</th>
+<th>Chem</th>
+<th>maths2</th>
+<th>Smp</th>
+</tr>
+<tr>
+<th>wednesday</th>
+<th>maths</th>
+<th>EE</th>
+<th>Smp</th>
+</tr>
+<tr>
+<th>thusday</th>
+<th>EE</th>
+<th>maths</th>
+<th>Smp</th>
+</tr>
+<tr>
+<th>friday</th>
+<th>Assigment</th>
+<th>Maths</th>
+<th>Codetantra</th>
+</tr>
+<tr>
+<th>saterday</th>
+<th>brunch</th>
+<th>mobile</th>
+<th>Maths</th>
+</tr>
+<tr>
+</table>
+</body>
+</html
+<tr>
+</table>
+</body>
+</html>
