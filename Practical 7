@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>Tribute to Dr. A.P.J Abdul Kalam</title>
+
+<style>
+body{
+background-color:white;
+font-family:"Times New Roman";
+text-align:center;
+}
+
+h1{
+color:black;
+}
+</style>
+
+</head>
+
+<body>
+
+<div>
+<h1>Tribute to Dr. A.P.J Abdul Kalam</h1>
+</div>
+
+<div>
+<a href="#">Home</a>
+<a href="#">Life</a>
+<a href="#">Achievements</a>
+</div>
+
+<div>
+<img src="kalam.jpg" width="200">
+</div>
+
+<div>
+<p>
+Dr. A.P.J Abdul Kalam was a renowned Indian scientist and the 11th President of India.
+He played a major role in India's missile and space development programs.
+</p>
+
+<p>
+He is widely known as the "Missile Man of India" for his contribution to the
+development of ballistic missile technology.
+</p>
+
+<p>
+Dr. Kalam inspired many students through his work in science, education,
+and national development.
+</p>
+</div>
+
+</body>
+</html>
